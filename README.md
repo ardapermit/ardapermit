@@ -4,7 +4,8 @@ Merhaba! Ben yazılım dünyasında yolculuğuna yeni başlamış bir geliştiri
 <img width="2480" height="3508" alt="Image" src="https://github.com/user-attachments/assets/be658a18-126d-4a0d-8edb-babf37385ef3" />
 
 
-[Not Hesaplayıcı-1,Not Hesaplayıcı-2.zip](https://github.com/user-attachments/files/21087658/Not.Hesaplayici-1.Not.Hesaplayici-2.zip)
+<img width="2480" height="3508" alt="Image" src="https://github.com/user-attachments/assets/7d008925-38bf-4757-81b6-92783683e877" />
+<img width="2480" height="3508" alt="Image" src="https://github.com/user-attachments/assets/46db850a-d1ce-490e-b1e6-7d36538e5a77" />
 
 
 
