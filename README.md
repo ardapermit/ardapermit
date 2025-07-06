@@ -10,3 +10,8 @@ Merhaba! Ben yazılım dünyasında yolculuğuna yeni başlamış bir geliştiri
 
 <img width="2480" height="3508" alt="Image" src="https://github.com/user-attachments/assets/c94cdbe4-bd58-4a18-90ab-0c0de4a76609" />
 
+
+
+
+<img width="2480" height="3508" alt="Image" src="https://github.com/user-attachments/assets/2499f2a6-5501-4133-82f2-641705ea9c75" />
+
